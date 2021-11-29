@@ -1,0 +1,36 @@
+header{
+    margin: 20px 50px;
+    font-size: 35px;
+}
+
+
+#img-div{
+    border: 1px solid black;
+    padding: 10px 0;
+    margin:auto 0;
+}
+#image{
+    max-width: 800px;
+    width: 90%;
+    margin: 0 auto;
+    display: block;
+    border-radius: 5px;
+}
+#img-caption{
+    margin-top: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#tribute-info{
+    text-align: center;
+    max-width: 800px;
+    width: 90%;
+    margin: 0 auto;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+footer{
+    text-align: center;
+}
